@@ -1,7 +1,3 @@
-[//]: # (Image References)
-
-[image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
-
 # Project: Training an agent for Deep Reinforcement Learning - Navigation
 
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
@@ -11,7 +7,7 @@ For this project, you will train an agent to navigate (and collect bananas!) in 
 In this project, we train **Deep Q-Learning** (**DQN**) Agent which walks around in the banana catching game simulator(Unity ML-Agents environment).
 It is the first project of the [Deep Reinforcement Learning Nanodegree (DRLND)](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) and was adapted from the original version on [Udacity Github Repository](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation).
 
-![Trained Agent][image1]
+![Trained Agent](./trained_agent.gif)
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
 
